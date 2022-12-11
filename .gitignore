@@ -1,0 +1,12 @@
+# Node.js
+node_modules/
+coverage/
+dist/
+
+# OS
+.DS_Store
+.env
+
+# Debug
+npm-debug.log
+yarn-error.log
